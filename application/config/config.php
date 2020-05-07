@@ -32,7 +32,7 @@ $config['url_real'] = '/home/xcanpetc/maspan.com.mx/decena/';
 */
 
 
-$config['base_url'] = 'https://www.autolavapp.com/home';
+$config['base_url'] = 'https://www.autolavapp.com';
 $config['url_real'] = '/Applications/XAMPP/xamppfiles/htdocs/maspan/';//'C:/xampp/htdocs/maspan/';
 
 
