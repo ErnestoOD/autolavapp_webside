@@ -846,3 +846,37 @@ font-size:20px;
         width: 100%;
     }
 }
+
+/**Caracteristicas **/
+    @media only screen and (min-width: 850px)  {
+    .servicio{
+        height: 160px;
+    }
+}
+@media (max-width: 1201px) {
+    .servicio{
+        height: 190px;
+    }
+}
+@media (max-width: 1000px) {
+    .servicio{
+        height: 160px;
+    }
+}
+@media (max-width: 780px) {
+    .servicio{
+        height: 140px;
+    }
+}
+
+.logopagos{
+    display: flex;
+    flex-direction: row;
+}
+.logopagos img{
+    padding-right: 10px;
+}
+.pricing-table .container{
+    width: 100%;
+
+}

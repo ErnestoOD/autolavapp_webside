@@ -9,7 +9,7 @@
 	<meta name="robots" content="index,follow">
 
     <title>Autolavapp - Responsive Landing Multipurpose App Template | ThemezHub</title>
-    
+    <link rel="icon" type="img/png" href="https://planificadorempresarial.mx/cs/citas_ford/horariossa/img/so.png">
     <!-- All Plugins Css -->
     <link href="css/plugins.css" rel="stylesheet">
     
@@ -64,7 +64,7 @@
 			<div class="container">
 				<div class="banner-caption">		
 					<div class="col-md-7 col-sm-12 banner-text">
-						<h1>La mejor App para tus servicios</h1>
+						<h1>Servicio de autolavado al alcance de tu mano</h1>
 						<a href="#" class="banner-btn download-btn" title="download" ><i class="fa fa-android"></i><h4>Google Play</h4></a>
 						<a href="#" class="banner-btn login-btn" title="download" ><i class="fa fa-apple"></i><h4>Apple IOS</h4></a>
 					</div>
@@ -87,30 +87,44 @@
 					<div class="col-md-8 col-sm-12 no-padd">
 						<div class="col-md-6 col-sm-6 no-padd">
 							<div class="features-caption">
-								<span class="icon icon-trophy"></span>
-								<h3>Canjea tus puntos</h3>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+								<span class="icon-shield"></span>
+								<h3>Seguridad al usuario</h3>
+								<p>Confirma la identidad del operador antes y durante tu pedido.</p>
 							</div>
 						</div>
 						<div class="col-md-6 col-sm-6 no-padd">
 							<div class="features-caption">
-								<span class="icon icon-layers"></span>
-								<h3>Seguimiento de servicio</h3>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+								<span class=" icon-recycle"></span>
+								<h3>Sustentabilidad ecologica</h3>
+								<p>Lavado 100% ecológico, con el cuidado y uso de productos, completamente biodegradables.</p>
 							</div>
 						</div>
 						<div class="col-md-6 col-sm-6 no-padd">
 							<div class="features-caption">
 								<span class="icon icon-happy"></span>
-								<h3>Valora el servicio</h3>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+								<h3>Calidad de servicio</h3>
+								<p>Operadores altamente capacitados y calificados para el cuidado y limpieza de tu auto.</p>
 							</div>
 						</div>
 						<div class="col-md-6 col-sm-6 no-padd">
 							<div class="features-caption">
-								<span class="icon icon-dial"></span>
-								<h3>Geolocalización</h3>
-								<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+								<span class=" icon-refresh"></span>
+								<h3>Agilidad y rapidez</h3>
+								<p>Contamos con servicio express con una duración maxima de 30 minutos.</p>
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-6 no-padd">
+							<div class="features-caption">
+								<span class="icon-heart"></span>
+								<h3>Comodidad</h3>
+								<p>Realiza tus actividades diarias en tu hogar u oficina, mientras nos dedicamos a la limpieza de tu auto.</p>
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-6 no-padd">
+							<div class="features-caption">
+								<span class="icon-mobile"></span>
+								<h3>Tendencia técnologica</h3>
+								<p>Realiza tus citas con la comodidad de tu dispositivo movil, IOS o Android.</p>
 							</div>
 						</div>
 					</div>
@@ -123,57 +137,75 @@
 		
 		<section class="dark services" id="services">
 			<div class="container">
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-4 col-sm-6 servicio">
 					<div class="service-caption">
 						<span class="icon-tools"></span>
 						<div class="service-content">
-							<h4>Content Writing</h4>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+							<h4>Programa tu cita</h4>
+							<p>Programa tu cita en tu dispositivo movil, desde la comidad de tu hogar u oficina,  a la fecha y hora más conveniente para ti.</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-4 col-sm-6 servicio">
 					<div class="service-caption">
 						<span class="icon-dial"></span>
 						<div class="service-content">
-							<h4>Creative Designs</h4>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+							<h4>Geolocaliza tu servicio</h4>
+							<p>Identifica la ubicación de tu servicio mediante geolocaclización durante el registro del pedido.</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-4 col-sm-6 servicio">
 					<div class="service-caption">
-						<span class="icon-twitter"></span>
+						<span class="icon-chat"></span>
 						<div class="service-content">
-							<h4>24x7 Support</h4>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+							<h4>Soporte 24x7</h4>
+							<p>Accede a nuestros servicios de soporte online, via chat.</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 col-sm-6">
-					<div class="service-caption">
-						<span class="icon-pictures"></span>
-						<div class="service-content">
-							<h4>Graphic Designs</h4>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6">
-					<div class="service-caption">
-						<span class="icon-twitter"></span>
-						<div class="service-content">
-							<h4>24x7 Support</h4>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6">
+				<div class="col-md-4 col-sm-6 servicio">
 					<div class="service-caption">
 						<span class="icon-pictures"></span>
 						<div class="service-content">
-							<h4>Graphic Designs</h4>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+							<h4>Contenido audiovisual</h4>
+							<p>Recibe notificaciones con contenido para la prevención de cuidados de tu auto.</p>
+							<!--como conservar la calidad de tu auto mediante videos, manuales e imagenes-->
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 servicio">
+					<div class="service-caption">
+						<span class="icon-wallet"></span>
+						<div class="service-content">
+							<h4>Metodos de pago</h4>
+							<p>Pago completamente digital, o con terminal bancaria.</p>
+							<div class="logopagos">
+								<img src="img/Visalogo.png" class="img-responsive" width="50px">
+								<img src="img/mastercardlogo.png" class="img-responsive" width="50px">
+								<img src="img/paypallogo.png" class="img-responsive" width="50px">
+							</div>
+							
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 servicio">
+					<div class="service-caption">
+						<span class="icon-clock"></span>
+						<div class="service-content">
+							<h4>Horarios de servicio</h4>
+							<p>Lunes a Domingo</p>
+							<p>8:00 - 19:00 hrs</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 servicio">
+					<div class="service-caption">
+						<span class="icon-caution"></span>
+						<div class="service-content">
+							<h4>Restricciones de servicio</h4>
+							<p>No se realizarán servicios programados para plaza comerciales, tiendas autoservicio o 
+							de conveniencia.</p>
 						</div>
 					</div>
 				</div>
@@ -222,10 +254,11 @@
 									<td>$ 195.00 MX</td>
 									</tr>
 									<tr>
-									<td><strong>PICK UP</strong></td>
+									<td><strong>PICK UP Y/O CAMIONETA</strong></td>
 									<td>40 MIN</td>
 									<td>$ 240.00 MX</td>
 									</tr>
+									<tr>
 								</tbody>
 								</table>
 							</div>
@@ -265,7 +298,7 @@
 									<td>$ 250.00 MX</td>
 									</tr>
 									<tr>
-									<td><strong>PICK UP</strong></td>
+									<td><strong>PICK UP Y/O CAMIONETA</strong></td>
 									<td>50 MIN</td>
 									<td>$ 300.00 MX</td>
 									</tr>
@@ -307,7 +340,7 @@
 									<td>$ 340.00 MX</td>
 									</tr>
 									<tr>
-									<td><strong>PICK UP</strong></td>
+									<td><strong>PICK UP Y/O CAMIONETA</strong></td>
 									<td>1:40 HORA</td>
 									<td>$ 400.00 MX</td>
 									</tr>
@@ -325,6 +358,7 @@
 							<ul class="paq-detalle">
 								<li><strong>INCLUYE</strong> </li>
 								<li>LAVADO, ASPIRADO Y SEMÍ-DETALLADO </li>
+								<li><strong>+ </strong>Descontaminación de pintura. </li>
 								<li><strong>+ </strong>Tratamiento de Pulido y Abrillantado. </li>
 							</ul>
 							<div class="table-responsive">
@@ -348,7 +382,7 @@
 									<td>$ 500.00 MX</td>
 									</tr>
 									<tr>
-									<td><strong>PICK UP</strong></td>
+									<td><strong>PICK UP Y/O CAMIONETA</strong></td>
 									<td>3 HORAS</td>
 									<td>$ 600.00 MX</td>
 									</tr>
@@ -436,6 +470,22 @@
 							<input data-rule-required="true" data-msg-required="El campo razon es requerido" id="referencia" placeholder="Referencia" class="form-control" name="razon" type="text" value="" aria-required="true">
 						</div>
 						<div class="form-group">
+							<i class="fas fa-user" aria-hidden="true" style="color: rgb(255, 248, 220);"></i>
+							<input data-rule-required="true" data-msg-required="El campo razon es requerido" id="razon" placeholder="Razón social" class="form-control" name="razon" type="text" value="" aria-required="true">
+						</div>
+						<div class="form-group">
+							<i class="fas fa-user" aria-hidden="true" style="color: rgb(255, 248, 220);"></i>
+							<input data-rule-required="true" data-msg-required="El campo razon es requerido" id="domicilio" placeholder="Domicilio" class="form-control" name="razon" type="text" value="" aria-required="true">
+						</div>
+						<div class="form-group">
+							<i class="fas fa-key" aria-hidden="true" style="color: rgb(255, 248, 220);"></i></i>
+							<input data-rule-required="true" data-msg-required="El campo rfc es requerido" id="rfc" placeholder="RFC" class="form-control" name="rfc" type="text" value="" aria-required="true">
+						</div>
+						<div class="form-group">
+							<i class="fas fa-envelope" aria-hidden="true" style="color: rgb(255, 248, 220);"></i>
+							<input data-rule-required="true" data-msg-required="El campo email es requerido" data-rule-email="true" data-msg-email="El formato del email es invalido." id="email" placeholder="Email" class="form-control" required="required" name="email" type="text" value="" aria-required="true">
+						</div>
+						<div class="form-group">
 						<label for="">CFDI</label>
 							<select name="cfdi" class="form-control">
 								<option value="" selected>Selecionar ...</option>
@@ -460,50 +510,31 @@
                             	<option value="19">[D08] Gastos de transportación escolar obligatoria</option>
                                 <option value="20">[D09] Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.</option>
                                 <option value="21">[D10] Pagos por servicios educativos (colegiaturas)</option>
-                                <option value="22">[P01] Por definir</option>
+                                
 							</select>
 						</div>
-						<div class="form-group">
-							<i class="fas fa-key" aria-hidden="true" style="color: rgb(255, 248, 220);"></i></i>
-							<input data-rule-required="true" data-msg-required="El campo rfc es requerido" id="rfc" placeholder="RFC" class="form-control" name="rfc" type="text" value="" aria-required="true">
-						</div>
-						<div class="form-group">
-							<i class="fas fa-user" aria-hidden="true" style="color: rgb(255, 248, 220);"></i>
-							<input data-rule-required="true" data-msg-required="El campo razon es requerido" id="razon" placeholder="Razón social" class="form-control" name="razon" type="text" value="" aria-required="true">
-						</div>
-						<div class="form-group">
-							<i class="fas fa-user" aria-hidden="true" style="color: rgb(255, 248, 220);"></i>
-							<input data-rule-required="true" data-msg-required="El campo razon es requerido" id="domicilio" placeholder="Domicilio" class="form-control" name="razon" type="text" value="" aria-required="true">
-						</div>
+						
+						
+						
 						<div class="form-group">
 							<label for="">Forma de pago</label>
 							<select name="forma_pago" class="form-control">
 								<option value="" selected>Selecionar ...</option>
-								<option value="1">[01] Efectivo</option>
-                                <option value="2">[02] Cheque</option>
-                        		<option value="3">[03] Transferencia Electrónica de fondos</option>
-                                <option value="4">[04] Tarjeta de crédito</option>
-                    			<option value="5">[05] Monedero electrónico</option>
-								<option value="6">[06] Dinero electrónico</option>
-								<option value="7">[08] Vales de despesa</option>
-								<option value="8">[28] Tarjeta de débito</option>
-								<option value="9">[29] Tarjeta de servicio</option>
-								<option value="10">[99] Tarjeta de servicioTarjeta de servicio</option>
+                                <option value="1">[04] Tarjeta de crédito</option>
+                    			<option value="2">[05] Monedero electrónico</option>
+								<option value="3">[06] Dinero electrónico</option>
+								<option value="4">[28] Tarjeta de débito</option>
 							</select>
 						</div>
 						<div class="form-group">
 							<label for="">Metodo de pago</label>
 							<select name="metodo_pago" class="form-control">
 								<option value="" selected>Selecionar ...</option>
-								<option value="value1">Pago en una sola exhibición</option> 
-								<option value="value2">Pago en parcialidades</option>
+								<option value="value1">Pago en una sola exhibición</option>
 							</select>
 						</div>
 						
-						<div class="form-group">
-							<i class="fas fa-envelope" aria-hidden="true" style="color: rgb(255, 248, 220);"></i>
-							<input data-rule-required="true" data-msg-required="El campo email es requerido" data-rule-email="true" data-msg-email="El formato del email es invalido." id="email" placeholder="Email" class="form-control" required="required" name="email" type="text" value="" aria-required="true">
-						</div>			
+								
 						<div class="reg-botons">
 								<button type="submit" class="btn select-plan" name="" value="">Procesar Factura</button>
 						</div>
@@ -571,9 +602,9 @@
 					<div class="footer-widget">
 						<div class="footer-social">
 							<ul class="footer-social-pro">
-								<li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li class="instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+								<li class="facebook"><a href="https://www.facebook.com/Autolavapp-391095291613449" target="_BLANK"><i class="fa fa-facebook"></i></a></li>
+								<li class="twitter"><a href="https://twitter.com/AutoLavApp" target="_BLANK"><i class="fa fa-twitter"></i></a></li>
+								<li class="instagram"><a href="https://www.instagram.com/autolavapp/" target="_BLANK"><i class="fa fa-instagram"></i></a></li>
 							</ul>
 						</div>
 						<div class="footer-widget">
