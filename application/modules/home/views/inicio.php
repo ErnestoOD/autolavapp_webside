@@ -181,9 +181,9 @@
 							<h4>Metodos de pago</h4>
 							<p>Pago completamente digital, o con terminal bancaria.</p>
 							<div class="logopagos">
-								<img src="img/Visalogo.png" class="img-responsive" width="50px">
-								<img src="img/mastercardlogo.png" class="img-responsive" width="50px">
-								<img src="img/paypallogo.png" class="img-responsive" width="50px">
+								<img src="img/Visalogo.png" class="img-responsive" >
+								<img src="img/mastercardlogo.png" class="img-responsive" >
+								<img src="img/paypallogo.png" class="img-responsive" >
 							</div>
 							
 						</div>

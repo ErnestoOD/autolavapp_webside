@@ -868,7 +868,7 @@ font-size:20px;
         height: 140px;
     }
 }
-
+/**PAGOS**/
 .logopagos{
     display: flex;
     flex-direction: row;
@@ -879,4 +879,25 @@ font-size:20px;
 .pricing-table .container{
     width: 100%;
 
+}
+
+@media only screen and (min-width: 1200px)  {
+    .logopagos img{
+        width: 20%;
+    }
+}
+@media (max-width: 1201px) {
+    .logopagos img{
+        width: 20%;
+    }
+}
+@media (max-width: 1000px) {
+    .logopagos img{
+        width: 20%;
+    }
+}
+@media (max-width: 780px) {
+    .logopagos img{
+        width: 15%;
+    }
 }
