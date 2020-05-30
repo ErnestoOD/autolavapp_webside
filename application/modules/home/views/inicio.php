@@ -283,6 +283,17 @@
 						</div>
 					</div>
 				</div>
+				<div class="col-md-4 col-sm-6 servicio">
+					<div class="service-caption">
+						<span class="icon-shield"></span>
+						<div class="service-content">
+							<h4>Seguro De Lluvia</h4>
+							<p>Si después del servicio de lavado tu auto es afectado por lluvia,
+							puedes solicitar un servicio único de cortesía sin costo, reservando tu cita dentro de las siguientes 
+								24 hrs de que hayamos lavado tu vehículo.</p>
+						</div>
+					</div>
+				</div>
 			</div>
 		</section>
 		
