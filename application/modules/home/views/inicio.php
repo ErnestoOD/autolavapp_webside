@@ -8,7 +8,7 @@
 	<meta name="keywords" content="Software, Html5, Responsive Template, Landing Page, Landing Template, Bootstrap Responsive Template, Bottstrap Design, App, App Template">
 	<meta name="robots" content="index,follow">
 
-    <title>Autolavapp - Responsive Landing Multipurpose App Template | ThemezHub</title>
+    <title>AutoLavApp</title>
     <link rel="icon" type="img/png" href="https://planificadorempresarial.mx/cs/citas_ford/horariossa/img/so.png">
     <!-- All Plugins Css -->
     <link href="css/plugins.css" rel="stylesheet">
@@ -16,7 +16,9 @@
     <!-- Custom style -->
     <link href="css/overwrite.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/fe47b5dbda.js" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/fe47b5dbda.js" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="js/html5shiv.min.js"></script>
@@ -25,6 +27,47 @@
     
 	</head>
 	<body>
+		<!-- Start MODAL -->
+		<!--Modal: modalDiscount-->
+		<div class="modal fade right" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+		aria-hidden="true" data-backdrop="false">
+		<div class="modal-dialog modal-side modal-bottom-right modal-notify modal-info" role="document">
+			<!--Content-->
+			<div class="modal-content">
+			<!--Header-->
+			<div class="modal-header">
+				
+
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+
+			<!--Body-->
+			<div class="modal-body">
+
+				<div class="col-3 imagen">
+				<img src="img/modalgel.png" class="img-responsive" alt="modal gel" />
+				</div>
+
+				<div class="col-9 texto">
+					<h4>¿Ya obtuviste tu muestra de gel antibacterial?</h4>
+					<p>Por que pensamos en tu protección, <span>AutoLavApp</span>, te obsequia una muestra de su gel antibacterial.</p>
+				</div>
+			</div>
+
+			<!--Footer-->
+			<div class="modal-footer justify-content-center">
+				<a type="button" class="btn btn-info">Ver</a>
+				<a type="button" class="btn btn-outline-info waves-effect" data-dismiss="modal">Salir</a>
+			</div>
+			</div>
+			<!--/.Content-->
+		</div>
+		</div>
+		<!-- Modal: modalAbandonedCart-->
+		<!-- END MODAL -->
+
 		<div class="wrapper">  
 		<!-- Start Navigation -->
 		<nav class="navbar navbar-default navbar-fixed white bootsnav on no-full">
@@ -89,7 +132,7 @@
 							<div class="features-caption">
 								<span class="icon-shield"></span>
 								<h3>Seguridad al usuario</h3>
-								<p>Confirma la identidad del operador antes y durante tu pedido.</p>
+								<p>Confirma la identidad del operador antes y durante tu servicio.</p>
 							</div>
 						</div>
 						<div class="col-md-6 col-sm-6 no-padd">
@@ -151,7 +194,7 @@
 						<span class="icon-dial"></span>
 						<div class="service-content">
 							<h4>Geolocaliza tu servicio</h4>
-							<p>Identifica la ubicación de tu servicio mediante geolocaclización durante el registro del pedido.</p>
+							<p>Identifica la ubicación de tu servicio mediante geolocalización durante el registro del pedido.</p>
 						</div>
 					</div>
 				</div>
@@ -206,6 +249,37 @@
 							<h4>Restricciones de servicio</h4>
 							<p>No se realizarán servicios programados para plaza comerciales, tiendas autoservicio o 
 							de conveniencia.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 servicio">
+					<div class="service-caption">
+						<span class="icon-document"></span>
+						<div class="service-content">
+							<h4>Facturación electrónica</h4>
+							<p>Para tu comodidad contáctanos con el sistemas de facturacion electrónica, 
+							para que tu servicio sea deducible de impuestos.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6 servicio">
+					<div class="service-caption">
+						<span class="icon-refresh"></span>
+						<div class="service-content">
+							<h4>Servicios a flotillas</h4>
+							<p>Dedícate a que tu flotilla sea productiva, nosotros a 
+							mantener tu parque vehicular, limpio e impecable. ¡Pregúntanos!</p>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-md-4 col-sm-6 servicio">
+					<div class="service-caption">
+						<span class="icon-basket"></span>
+						<div class="service-content">
+							<h4>Servicio a unidades de UBER, CABIFY, BEAT, EASY, TAXI y DIDI. Al 50%</h4>
+							<p>Amigo operador de plataforma, tenemos el mejor paquete de lavado, 
+							para que todo el mes tu vehículo este en optimas condiciones para el servicio que brindas!</p>
 						</div>
 					</div>
 				</div>
@@ -619,7 +693,7 @@
 							</ul>
 						</div>
 						<div class="footer-widget-copy">
-							<p>Copyright@ 2020 Appley Design By <a href="https://themezhub.com/">ThemezHub</a> 
+							<p>Copyright SOHEX <i class="far fa-copyright"></i> 2020 - Diseñado por SISTEMAS OPERATIVOS HEXADECIMAL. SA DE CV.</a> 
 							- <a href="https://themezhub.com/">Politica de servicio</a> 
 							- <a href="https://themezhub.com/">Aviso de privacidad</a></p>
 						</div>
@@ -672,5 +746,14 @@
 			});
 			</script>
 		</div>
+	
+		<!--Scripts-->
+		<script type="text/javascript">
+			$(document).ready(function (){
+				setTimeout(function() {
+					$("#myModal").modal('show');
+				}, 2000);
+			});
+		</script>
 	</body>
 </html>

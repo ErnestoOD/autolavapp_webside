@@ -884,20 +884,72 @@ font-size:20px;
 @media only screen and (min-width: 1200px)  {
     .logopagos img{
         width: 20%;
+        height: 20%;
     }
 }
 @media (max-width: 1201px) {
     .logopagos img{
         width: 20%;
+        height: 20%;
     }
 }
 @media (max-width: 1000px) {
     .logopagos img{
         width: 20%;
+        height: 20%;
     }
 }
 @media (max-width: 780px) {
     .logopagos img{
         width: 15%;
+        height: 15%;
     }
+}
+.services{
+    padding-bottom: 100px;
+}
+
+/**MODAL**/
+.bg-modal{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.7;
+    position: absolute;
+    top: 0;
+}
+.modal-header{
+    background-color: #aeccf3;
+}
+.modal-content{
+    text-align: center;
+}
+.modal-body{
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    display: grid;
+    width: 100%;
+    grid-template-columns: 30% 65%;
+}
+.modal-body .imagen{
+    align-self: center;
+    width: 80%;
+    padding-left: 5px;
+}
+@media (max-width: 780px) {
+    .modal-body{
+        grid-template-columns: 40% 60%;
+    }
+    .modal-body .imagen{
+        width: 80%;
+    }
+}
+.modal-body .texto{
+    width: 90%;
+    align-self: center;
+}
+.modal-body .texto span{
+    font-size: bold;
+    text-transform: bold;
 }
